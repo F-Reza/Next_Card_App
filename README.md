@@ -1,4 +1,4 @@
-# next_vcc
+# Next_VirtualCreditCard
 
 A new Flutter project NextCard - Virtual Credit Card Full Solution.
 
